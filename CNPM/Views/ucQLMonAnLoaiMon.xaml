@@ -1,0 +1,144 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:local="clr-namespace:CNPM"
+             xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors" x:Name="ucQLMonAnLoaiMon1" x:Class="CNPM.ucQLMonAnLoaiMon"
+             mc:Ignorable="d" 
+             d:DesignHeight="660" d:DesignWidth="1220" Loaded="ucQLMonAnLoaiMon1_Loaded">
+    <Grid Background="White">
+        <GroupBox x:Name="grbQLLoaiMon" Header="Quản lý loại món" FontSize="16" Margin="10,10,800,429">
+            <GroupBox.Style>
+                <Style/>
+            </GroupBox.Style>
+            <Grid Margin="0,0,0,6">
+
+
+                <Grid x:Name="grdLoaiMon" Margin="0,0,0,102">
+                    <TextBox x:Name="txtTenLoaiMon"
+                    materialDesign:HintAssist.Hint="Tên loại món"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="41,10,41,0" Height="55" VerticalAlignment="Top" />
+                </Grid>
+
+                <Button x:Name="btnThemLoaiMon"
+                    Background="#FF6DA7F0"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    Width="100"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="41,90,239,0" VerticalAlignment="Top" Content="_Thêm" Click="btnThemLoaiMon_Click"/>
+                <Button x:Name="btnSuaLoaiMon"
+                    Background="#FF6DA7F0"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    Width="100"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="146,90,134,0" VerticalAlignment="Top" Content="_Sửa" Click="btnSuaLoaiMon_Click"/>
+                <Button x:Name="btnXoaLoaiMon"
+                    Background="#FF6DA7F0"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    Width="100"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="251,90,29,0" VerticalAlignment="Top" Content="_Xóa" Click="btnXoaLoaiMon_Click"/>
+                <Button x:Name="btnLuuLoaiMon"
+                    Background="#FF6DA7F0"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    Width="100"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="41,128,239,0" VerticalAlignment="Top" Content="_Lưu" Click="btnLuuLoaiMon_Click"/>
+                <Button x:Name="btnHuyLoaiMon"
+                    Background="#FF6DA7F0"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    Width="100"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="146,128,134,0" VerticalAlignment="Top" Content="_Hủy" Click="btnHuyLoaiMon_Click"/>
+                <Button x:Name="btnReLoadLoaiMon"
+                    Background="#FF6DA7F0"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    Width="100"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="251,128,29,0" Click="btnReLoadLoaiMon_Click" VerticalAlignment="Top" Content="_Reload"/>
+
+            </Grid>
+
+        </GroupBox>
+        <DataGrid x:Name="DgvLoaiMon" 
+                  
+                 
+                          CanUserAddRows="False" CanUserDeleteRows="False" CanUserResizeRows="False" 
+                          IsReadOnly="True"
+                          HorizontalAlignment="Stretch" 
+                          HorizontalContentAlignment="Stretch" 
+                          ColumnWidth="*" Height="355" Margin="10,295,809,0" VerticalAlignment="Top" BorderThickness="1" DisplayMemberPath="{Binding}" SelectionChanged="DgvLoaiMon_SelectionChanged" MouseDown="DgvLoaiMon_MouseDown" />
+        <materialDesign:PackIcon Kind="Search" RenderTransformOrigin="1.75,1.5" Height="30" Width="55" Margin="134,251,0,0" />
+        <TextBox x:Name="txtTimKiemLoaiMon"
+                    materialDesign:HintAssist.Hint="Tìm kiếm"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="194,236,800,379" />
+        <GroupBox x:Name="grbQLMonAn" Header="Quản lý món ăn" FontSize="16" Margin="430,10,10,0" Height="297" VerticalAlignment="Top">
+            <GroupBox.Style>
+                <Style/>
+            </GroupBox.Style>
+            <Grid Margin="0,0,-2,0" Height="270" VerticalAlignment="Top">
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="753*"/>
+                    <ColumnDefinition Width="5*"/>
+                </Grid.ColumnDefinitions>
+                <Grid x:Name="grdMonAn">
+                    <TextBox x:Name="txtTenMonAn"
+                    materialDesign:HintAssist.Hint="Tên món ăn"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="168,20,333,0" Height="46" VerticalAlignment="Top" />
+                    <ComboBox x:Name="cbxLoaiMon"
+                    materialDesign:HintAssist.Hint=" Loại món"
+                    Style="{StaticResource MaterialDesignFloatingHintComboBox}" Margin="168,70,333,0" Height="42" SelectionChanged="ComboBox_SelectionChanged" VerticalAlignment="Top">
+
+                    </ComboBox>
+                    <TextBox x:Name="txtGiaTien"
+                    materialDesign:HintAssist.Hint="Giá tiền"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="168,118,333,0" Height="50" VerticalAlignment="Top" />
+
+                    <Button x:Name="btnChonAnh"
+                    Background="#FF6DA7F0"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    Width="100"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="499,151,154,0" VerticalAlignment="Top" Content="_Chọn ảnh&#xD;&#xA;" Click="btnChonAnh_Click_1"/>
+                </Grid>
+                <Image x:Name="imgMonAn" HorizontalAlignment="Left" Height="126" Margin="485,20,0,0" VerticalAlignment="Top" Width="133" />
+                <Button x:Name="btnThemMonAn"
+                    Background="#FF6DA7F0"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    Width="100"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="77,215,576,0" VerticalAlignment="Top" Content="_Thêm" Click="btnThemMonAn_Click"/>
+                <Button x:Name="btnSuaMonAn"
+                    Background="#FF6DA7F0"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    Width="100"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="183,215,470,0" VerticalAlignment="Top" Content="_Sửa" Click="btnSuaMonAn_Click"/>
+                <Button x:Name="btnXoaMonAn"
+                    Background="#FF6DA7F0"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    Width="100"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="287,215,366,0" VerticalAlignment="Top" Content="_Xóa" Click="btnXoaMonAn_Click"/>
+                <Button x:Name="btnLuuMonAn"
+                    Background="#FF6DA7F0"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    Width="100"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="393,215,260,0" VerticalAlignment="Top" Content="_Lưu" Click="btnLuuMonAn_Click"/>
+                <Button x:Name="btnHuyMonAn"
+                    Background="#FF6DA7F0"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    Width="100"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="499,215,154,0" VerticalAlignment="Top" Content="_Hủy" Click="btnHuyMonAn_Click"/>
+                <Button x:Name="btnReloadMonAn"
+                    Background="#FF6DA7F0"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    Width="100"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="603,215,50,0" VerticalAlignment="Top" Content="_Reload" Click="btnReloadMonAn_Click_1"/>
+
+            </Grid>
+        </GroupBox>
+        <materialDesign:PackIcon Kind="Search" RenderTransformOrigin="1.75,1.5" Height="30" Width="30" Margin="936,323,0,0" />
+        <TextBox x:Name="txtTimKiemMonAn"
+                    materialDesign:HintAssist.Hint="Tìm kiếm"
+                     Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="971,307,10,307" />
+        <DataGrid x:Name="dgvMonAn"  CanUserAddRows="False" CanUserDeleteRows="False" CanUserResizeRows="False" 
+                  IsReadOnly="True"
+                          HorizontalAlignment="Stretch" 
+                          HorizontalContentAlignment="Stretch" 
+                          ColumnWidth="*" Height="290" Margin="430,358,0,0" VerticalAlignment="Top" Width="780" BorderThickness="1" SelectionChanged="dgvMonAn_SelectionChanged_1"/>
+    </Grid>
+</UserControl>

@@ -1,0 +1,41 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CNPM.Views"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="CNPM.Views.ucUsedDetails"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="780">
+    <Grid Height="600" Width="780" Background="White">
+        <TextBlock FontSize="30" HorizontalAlignment="Left"  Margin="253,39,0,0" TextWrapping="Wrap" Text="Chi Tiết Phiếu Xuất" VerticalAlignment="Top"/>
+        <TextBox
+            FontSize="14"
+        IsEnabled="false"
+        x:Name="txtGhiChuPX"
+        Height="45"
+        materialDesign:HintAssist.Hint="Ghi chú"
+        Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="431,84,15,471" />
+        <DataGrid
+            IsReadOnly="true"
+            x:Name="dgvPhieuNhapDetails"
+            HorizontalAlignment="Stretch" 
+            HorizontalContentAlignment="Stretch" 
+            ColumnWidth="*"
+            Height="393"
+            Margin="15,147,15,0"
+            VerticalAlignment="Top"
+            Width="750"
+            BorderThickness="1"/>
+        <Button
+            x:Name="btnClose"
+            Background="#FF6DA7F0"
+            Style="{StaticResource MaterialDesignRaisedLightButton}"
+            Width="100"
+            ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="665,558,15,10" Content="_Đóng"/>
+
+
+
+
+    </Grid>
+</UserControl>

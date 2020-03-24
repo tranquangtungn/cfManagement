@@ -1,0 +1,141 @@
+﻿<UserControl x:Class="CNPM.ucRawUsed"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:local="clr-namespace:CNPM"
+             mc:Ignorable="d" 
+             d:DesignHeight="660" d:DesignWidth="1220" Background="White">
+    <Grid Height="660" Width="1220">
+
+        <GroupBox Header="Phiếu xuất gần đây" FontSize="16" Margin="10,10,800,10">
+            <GroupBox.Style>
+                <Style>
+
+                </Style>
+            </GroupBox.Style>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="99*"/>
+                    <ColumnDefinition Width="299*"/>
+                </Grid.ColumnDefinitions>
+                <Button
+                    x:Name="btnChiTiet"
+                    Background="#FF6DA7F0"
+    Style="{StaticResource MaterialDesignRaisedLightButton}"
+    Width="100"
+    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="189,570,10,10" Grid.Column="1">
+                    _Chi Tiết
+                </Button>
+                <DataGrid 
+                    IsReadOnly="true"
+                    x:Name="dgvDSPhieuXuat"
+                    HorizontalAlignment="Stretch" 
+                    HorizontalContentAlignment="Stretch" 
+                    ColumnWidth="*"
+                    Height="496" 
+                    Margin="10,52,10,0" 
+                    VerticalAlignment="Top" 
+                    Width="378" 
+                    BorderThickness="1" 
+                    Grid.ColumnSpan="2">
+
+                </DataGrid>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Phiếu xuất mới" FontSize="16" Margin="430,10,10,10">
+            <GroupBox.Style>
+                <Style>
+
+                </Style>
+            </GroupBox.Style>
+            <Grid Margin="0,0,-2,0">
+                <ComboBox
+                    x:Name="cbbTenNguyenLieu"
+                    materialDesign:HintAssist.Hint="Tên nguyên liệu"
+                    Style="{StaticResource MaterialDesignFloatingHintComboBox}" Margin="23,11,550,556">
+                    
+                </ComboBox>
+                <TextBox
+                    x:Name="txtSoLuong"
+                    Height="45"
+                    materialDesign:HintAssist.Hint="Số lượng xuất"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="239,11,360,556" />
+                <Button
+                    x:Name="btnThem"
+                    Background="#FF6DA7F0"
+    Style="{StaticResource MaterialDesignRaisedLightButton}"
+    Width="100"
+    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="140,87,530,493">
+                    _Thêm
+                </Button>
+                <Button
+                    x:Name="btnSua"
+                    Background="#FF6DA7F0"
+    Style="{StaticResource MaterialDesignRaisedLightButton}"
+    Width="100"
+    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="246,87,424,493">
+                    _Sửa
+                </Button>
+                <Button
+                    x:Name="btnXoa"
+                    Background="#FF6DA7F0"
+    Style="{StaticResource MaterialDesignRaisedLightButton}"
+    Width="100"
+    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="350,87,320,493">
+                    _Xóa
+                </Button>
+                <Button
+                    x:Name="btnLuu"
+                    Background="#FF6DA7F0"
+    Style="{StaticResource MaterialDesignRaisedLightButton}"
+    Width="100"
+    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="456,87,214,493">
+                    _Lưu
+                </Button>
+                <Button
+                    x:Name="btnHuy"
+                    Background="#FF6DA7F0"
+    Style="{StaticResource MaterialDesignRaisedLightButton}"
+    Width="100"
+    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="562,87,108,493">
+                    _Hủy
+                </Button>
+                <DataGrid 
+                    IsReadOnly="true"
+                    x:Name="dgvPhieuXuat"
+                    HorizontalAlignment="Stretch" 
+                    HorizontalContentAlignment="Stretch" 
+                    ColumnWidth="*"
+                    Height="401" 
+                    Margin="10,152,10,0" 
+                    VerticalAlignment="Top" 
+                    Width="750" 
+                    BorderThickness="1">
+
+                </DataGrid>
+                <materialDesign:PackIcon Kind="Search" RenderTransformOrigin="1.75,1.5" Height="30" Width="30" Margin="-409,17,0,0" />
+                <TextBox
+                    x:Name="txtTimKiem"
+                    materialDesign:HintAssist.Hint="Tìm kiếm"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="-374,1,889,567" />
+                <TextBox
+                    x:Name="txtGhiChu"
+                    Height="45"
+                    materialDesign:HintAssist.Hint="Ghi chú"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="426,11,10,556" />
+                <TextBox
+                    x:Name="txtGhiChuPX"
+                    Height="45"
+                    materialDesign:HintAssist.Hint="Ghi chú phiếu xuất"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="10,558,386,9" />
+                <Button
+                    x:Name="btnLuuPhieuXuat"
+                    Background="#FF6DA7F0"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="600,570,10,10" Content="_Lưu phiếu xuất"/>
+            </Grid>
+        </GroupBox>
+    </Grid>
+</UserControl>

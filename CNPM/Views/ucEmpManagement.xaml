@@ -1,0 +1,248 @@
+﻿<UserControl x:Class="CNPM.ucEmpManagement"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+             xmlns:local="clr-namespace:CNPM"
+             mc:Ignorable="d" 
+             d:DesignHeight="660" d:DesignWidth="1220" Background="White">
+    <Grid>
+        <GroupBox x:Name="grbNhanVien" Header="Thông tin nhân viên" HorizontalAlignment="Left" Height="311" Margin="10,10,0,0" VerticalAlignment="Top" Width="1200" FontSize="16">
+            <GroupBox.Style>
+                <Style></Style>
+            </GroupBox.Style>
+            <Grid Margin="0,0,0,-6">
+                <Image 
+                    x:Name="pctbAvartar"
+                    HorizontalAlignment="Left" 
+                    Height="170" 
+                    Margin="1008,30,0,0" 
+                    VerticalAlignment="Top"  
+                    Width="170"
+                    Stretch="Fill"/>
+
+                <Label 
+                    Content="Mã nhân Viên:" 
+                    HorizontalAlignment="Left" 
+                    Margin="32,30,0,0" 
+                    VerticalAlignment="Top" 
+                    FontSize="16"/>
+                <TextBox
+                    x:Name="txtID"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                    materialDesign:HintAssist.Hint=""
+                    Text="{Binding Content}"
+                    Margin="148,0,684,228"
+                    VerticalAlignment="Bottom" 
+                    IsEnabled="False"/>
+                <Label 
+                    Content="Tên nhân Viên:" 
+                    HorizontalAlignment="Left" 
+                    Margin="32,78,0,0" 
+                    VerticalAlignment="Top" 
+                    FontSize="16"/>
+                <TextBox
+                    x:Name="txtTen"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                    materialDesign:HintAssist.Hint=""
+                    Text="{Binding Content}"
+                    Margin="148,0,684,180"
+                    VerticalAlignment="Bottom" />
+                <Label 
+                    Content="Ngày sinh:" 
+                    HorizontalAlignment="Left" 
+                    Margin="518,30,0,0" 
+                    VerticalAlignment="Top" 
+                    FontSize="16"/>
+                <DatePicker 
+                    x:Name="ngaySinh"
+                    HorizontalAlignment="Left" 
+                    Margin="636,26,0,0" 
+                    VerticalAlignment="Top" 
+                    Height="35" Width="356" 
+                    FontSize="16"/>
+                <Label 
+                    Content="Chức vụ:" 
+                    HorizontalAlignment="Left"
+                    Margin="32,136,0,0" 
+                    VerticalAlignment="Top" 
+                    FontSize="16"/>
+                <ComboBox 
+                    materialDesign:HintAssist.Hint="Bán Hàng"
+                    x:Name="cbxChucVu"
+                    Margin="148,126,684,122"
+                    FontSize="16" Height="41">
+                    <ComboBoxItem>
+                        Quản Lý
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        Bán Hàng
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        Thủ Kho
+                    </ComboBoxItem>
+                </ComboBox>
+                <Label 
+                    Content="Số CMND:" 
+                    HorizontalAlignment="Left" 
+                    Margin="32,184,0,0" 
+                    VerticalAlignment="Top" 
+                    FontSize="16"/>
+                <TextBox
+                    x:Name="txtCMND"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                    materialDesign:HintAssist.Hint=""
+                    Text="{Binding Content}"
+                    Margin="148,0,684,74"
+                    VerticalAlignment="Bottom" />
+                <Label 
+                    Content="Địa chỉ:" 
+                    HorizontalAlignment="Left" 
+                    Margin="32,231,0,0" 
+                    VerticalAlignment="Top" 
+                    FontSize="16" RenderTransformOrigin="0.541,-0.065"/>
+                <TextBox
+                    x:Name="txtdc"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                    materialDesign:HintAssist.Hint=""
+                    Text="{Binding Content}"
+                    Margin="148,0,196,27"
+                    VerticalAlignment="Bottom" />
+                <Label 
+                    Content="Ngày vào làm:" 
+                    HorizontalAlignment="Left" 
+                    Margin="518,78,0,0" 
+                    VerticalAlignment="Top" 
+                    FontSize="16"/>
+                <DatePicker 
+                    x:Name="ngayLam"
+                    HorizontalAlignment="Left" 
+                    Margin="636,74,0,0" 
+                    VerticalAlignment="Top" 
+                    Height="35" Width="356" 
+                    FontSize="16"/>
+                <Label 
+                    Content="Số điện thoại:" 
+                    HorizontalAlignment="Left" 
+                    Margin="518,137,0,0" 
+                    VerticalAlignment="Top" 
+                    FontSize="16"/>
+                <TextBox
+                    x:Name="txtSdt"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                    materialDesign:HintAssist.Hint=""
+                    Text="{Binding Content}"
+                    Margin="636,0,196,121"
+                    VerticalAlignment="Bottom" />
+                <Label 
+                    Content="Giới tính:" 
+                    HorizontalAlignment="Left" 
+                    Margin="518,184,0,0" 
+                    VerticalAlignment="Top" 
+                    FontSize="16"/>
+                <ComboBox 
+                    x:Name="cbxgt"
+                    materialDesign:HintAssist.Hint="Nữ"
+                    Margin="636,174,196,74"
+                    FontSize="16" Height="41">
+                    <ComboBoxItem>
+                        Nam
+                    </ComboBoxItem>
+                    <ComboBoxItem>
+                        Nữ
+                    </ComboBoxItem>
+                </ComboBox>
+
+                <Button
+                    x:Name="btnSelectImg"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" FontSize="18" Background="#FF6DA7F0" Margin="1044,227,29,22" Height="Auto" FontWeight="Bold">
+                    Chọn ảnh
+                </Button>
+
+
+            </Grid>
+        </GroupBox>
+        <Button
+                    x:Name="btnReaload"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" FontSize="18" Background="#FF6DA7F0" Margin="796,325,331,289" Height="Auto" FontWeight="Bold">
+            Reload
+        </Button>
+        <Button
+                    x:Name="btnInsert"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" 
+                    FontSize="18" 
+                    Background="#FF6DA7F0" 
+                    Margin="331,325,801,289" 
+                    Height="Auto" 
+                    FontWeight="Bold">
+            Thêm
+        </Button>
+        <Button
+                    x:Name="btnEdit"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" 
+                    FontSize="18" 
+                    Background="#FF6DA7F0" 
+                    Margin="424,325,708,289" 
+                    Height="Auto" 
+                    FontWeight="Bold">
+            Sửa
+        </Button>
+        <Button
+                    x:Name="btnDelete"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" 
+                    FontSize="18" 
+                    Background="#FF6DA7F0" 
+                    Margin="517,325,615,289" 
+                    Height="Auto" 
+                    FontWeight="Bold">
+            Xóa
+        </Button>
+        <Button
+                    x:Name="btnSave"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" 
+                    FontSize="18" 
+                    Background="#FF6DA7F0" 
+                    Margin="610,325,522,289" 
+                    Height="Auto" 
+                    FontWeight="Bold" >
+            Lưu
+        </Button>
+        <Button
+                    x:Name="btnCancel"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" 
+                    FontSize="18" 
+                    Background="#FF6DA7F0" 
+                    Margin="703,325,429,289" 
+                    Height="Auto" 
+                    FontWeight="Bold">
+            Hủy
+        </Button>
+        <materialDesign:PackIcon Kind="FileSearchOutline" Margin="876,385,0,0" Height="28" Width="27" RenderTransformOrigin="0.993,0.471" />
+        <TextBox
+            x:Name="txtFind"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                    materialDesign:HintAssist.Hint="Tìm kiếm"
+                    Text="{Binding Content}"
+                    Margin="915,0,17,247"
+                    VerticalAlignment="Bottom"
+                    FontSize="16"/>
+        <DataGrid 
+            x:Name="dgvNhanVien" 
+            BorderThickness="1" 
+            HorizontalAlignment="Stretch" 
+            HorizontalContentAlignment="Stretch" 
+            ColumnWidth="*"
+            Height="235" 
+            Margin="10,418,17,0" 
+            VerticalAlignment="Top" 
+            IsReadOnly="True"/>
+    </Grid>
+</UserControl>

@@ -1,0 +1,97 @@
+﻿<UserControl x:Class="CNPM.Views.ucDistributorManagement"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CNPM"
+             mc:Ignorable="d" 
+             d:DesignHeight="660" d:DesignWidth="1220"
+             Background="White">
+    <Grid>
+        <GroupBox x:Name="grbNhaCungCap" Header="Thông tin nhà cung cấp" HorizontalAlignment="Left" Height="184" VerticalAlignment="Top" Width="1044" Margin="78,10,0,0" FontSize="16">
+            <GroupBox.Style>
+                <Style></Style>
+            </GroupBox.Style>
+            <Grid Margin="0,0,-2,12">
+
+                <Label Content="Tên nhà cung cấp:" HorizontalAlignment="Left" Margin="58,15,0,0" VerticalAlignment="Top" FontSize="16" />
+                <TextBox
+                    x:Name="txtTenNCC"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                    materialDesign:HintAssist.Hint=""
+                    Text="{Binding Content}"
+                    Margin="241,0,67,98"
+                    VerticalAlignment="Bottom" Height="45" />
+                <Label Content="Địa chỉ:" HorizontalAlignment="Left" Margin="58,60,0,0" VerticalAlignment="Top" FontSize="16" RenderTransformOrigin="0.459,0.742"/>
+                <TextBox
+                    x:Name="txtDiaChi"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                    materialDesign:HintAssist.Hint=""
+                    Text="{Binding Content}"
+                    Margin="241,0,67,53"
+                    VerticalAlignment="Bottom" Height="46" />
+                <Label Content="Số điện thoại:" HorizontalAlignment="Left" Margin="58,105,0,0" VerticalAlignment="Top" FontSize="16"/>
+                <TextBox
+                    x:Name="txtSoDienThoai"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                    materialDesign:HintAssist.Hint=""
+                    Text="{Binding Content}"
+                    Margin="241,0,67,8"
+                    VerticalAlignment="Bottom" Height="45" />
+            </Grid>
+        </GroupBox>
+        <Button
+            x:Name="btnThem"
+            Style="{StaticResource MaterialDesignRaisedLightButton}"
+            ToolTip="Resource name: MaterialDesignRaisedLightButton" FontSize="18" Background="#FF6DA7F0" Margin="196,212,904,402" Height="Auto" FontWeight="Bold">
+            Thêm
+        </Button>
+        <Button
+            x:Name="btnSua"
+            Style="{StaticResource MaterialDesignRaisedLightButton}"
+            ToolTip="Resource name: MaterialDesignRaisedLightButton" FontSize="18" Background="#FF6DA7F0" Margin="330,212,770,402" Height="Auto" FontWeight="Bold">
+            Sửa
+        </Button>
+        <Button
+            x:Name="btnXoa"
+            Style="{StaticResource MaterialDesignRaisedLightButton}"
+            ToolTip="Resource name: MaterialDesignRaisedLightButton" FontSize="18" Background="#FF6DA7F0" Margin="464,212,636,402" Height="Auto" FontWeight="Bold">
+            Xóa
+        </Button>
+        <Button
+            x:Name="btnLuu"
+            Style="{StaticResource MaterialDesignRaisedLightButton}"
+            ToolTip="Resource name: MaterialDesignRaisedLightButton" FontSize="18" Background="#FF6DA7F0" Margin="598,212,502,402" Height="Auto" FontWeight="Bold">
+            Lưu
+        </Button>
+        <Button
+            x:Name="btnHuy"
+            Style="{StaticResource MaterialDesignRaisedLightButton}"
+            ToolTip="Resource name: MaterialDesignRaisedLightButton" FontSize="18" Background="#FF6DA7F0" Margin="732,212,368,402" Height="Auto" FontWeight="Bold">
+            Hủy
+        </Button>
+        <Button
+            x:Name="btnReload"
+            Style="{StaticResource MaterialDesignRaisedLightButton}"
+            ToolTip="Resource name: MaterialDesignRaisedLightButton" FontSize="18" Background="#FF6DA7F0" Margin="866,212,234,402" Height="Auto" FontWeight="Bold">
+            Reload
+        </Button>
+        <DataGrid 
+            IsReadOnly="true"
+            x:Name="dgvNhaCungCap" 
+            BorderThickness="1" 
+            HorizontalAlignment="Stretch" 
+            HorizontalContentAlignment="Stretch" 
+            ColumnWidth="*"
+            Height="317" Margin="32,333,0,0" 
+            VerticalAlignment="Top" 
+            Width="1160"/>
+        <materialDesign:PackIcon Kind="Search" RenderTransformOrigin="1.75,1.5" Height="30" Width="30" Margin="943,292,0,0" />
+        <TextBox
+            x:Name="txtTimKiem"
+            Height="45"
+            materialDesign:HintAssist.Hint="Tìm kiếm"
+            Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="978,270,28,332" />
+    </Grid>
+</UserControl>

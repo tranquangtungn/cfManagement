@@ -1,0 +1,107 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+            xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:local="clr-namespace:CNPM"
+             xmlns:Custom="http://schemas.devexpress.com/winfx/2008/xaml/charts/rangecontrolclient" xmlns:dxc="http://schemas.devexpress.com/winfx/2008/xaml/charts" xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors" x:Class="CNPM.ucTinhLuong"
+             mc:Ignorable="d" 
+             d:DesignHeight="660" d:DesignWidth="1220" Loaded="UserControl_Loaded">
+    <Grid Background="White">
+        <GroupBox x:Name="gbxThongTinNV" FontSize="16" Header="Thông tin nhân viên" HorizontalAlignment="Left" Height="327" Margin="10,323,0,0" VerticalAlignment="Top" Width="442">
+            <GroupBox.Style>
+                <Style/>
+
+            </GroupBox.Style>
+            <Grid>
+
+
+                <materialDesign:PackIcon Kind="Search" RenderTransformOrigin="1.75,1.5" Height="30" Width="58" Margin="10,26,0,0" />
+                <ComboBox x:Name="cbxLoaiTimKiem"
+                    materialDesign:HintAssist.Hint="Cách thức"
+                    Style="{StaticResource MaterialDesignFloatingHintComboBox}" Margin="256,13,10,236" Height="50" IsTextSearchCaseSensitive="True">
+                    <ComboBoxItem Content="Theo tên"/>
+                    <ComboBoxItem Content="Theo mã NV"/>
+                    <ComboBoxItem Content="Theo CMND"/>
+                </ComboBox>
+                <TextBox x:Name="txtMaNV"
+                    materialDesign:HintAssist.Hint="Mã NV"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="10,68,249,168" />
+                <TextBox x:Name="txtHoTen"
+                    materialDesign:HintAssist.Hint="Họ và tên"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="10,108,149,122" />
+                <TextBox x:Name="txtNgaySinh"
+                    materialDesign:HintAssist.Hint="Ngày sinh"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="10,164,249,71" />
+
+                <Button x:Name="btnXacNhanTTNV"
+                    Background="#FF6DA7F0"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    Width="100"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="292,231,26,23" Click="btnXacNhanTTNV_Click" >
+                    _Xác nhận
+                </Button>
+                <TextBox x:Name="txtTimKiem"
+                    materialDesign:HintAssist.Hint="Tìm kiếm
+                    "
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="68,0,179,236" TextChanged="txtTimKiem_TextChanged" />
+            </Grid>
+        </GroupBox>
+
+
+
+        <GroupBox FontSize="16" Header="Danh sách chấm công" HorizontalAlignment="Left" Height="640" Margin="457,10,0,0" VerticalAlignment="Top" Width="753">
+            <GroupBox.Style>
+                <Style/>
+
+            </GroupBox.Style>
+            <Grid>
+
+                <TextBox x:Name="txtMucLuong"
+                    materialDesign:HintAssist.Hint="Tiền lương/1ca"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="536,342,10,201" Text="0" TextChanged="txtMucLuong_TextChanged" />
+                <DataGrid x:Name="dgvChamCong" CanUserAddRows="False" CanUserDeleteRows="False" CanUserResizeRows="False" 
+                  IsReadOnly="True" Margin="0,0,216,-2"/>
+                <Button x:Name="btnIn"
+                    Background="#FF6DA7F0"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="536,478,66,89" Click="btnIn_Click"  >
+                    _In
+                </Button>
+                <TextBox x:Name="txtTongLuong"
+                    materialDesign:HintAssist.Hint="Tổng lương"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="536,403,10,140" Text="0"  />
+            </Grid>
+
+        </GroupBox>
+
+        <GroupBox FontSize="16" Header="Thời gian làm việc" HorizontalAlignment="Left" Height="308" Margin="15,10,0,0" VerticalAlignment="Top" Width="437">
+            <GroupBox.Style>
+                <Style/>
+
+            </GroupBox.Style>
+            <Grid>
+                <ComboBox x:Name="cbxChonDoiTuong"
+                    materialDesign:HintAssist.Hint="Chọn đối tượng"
+                    Style="{StaticResource MaterialDesignFloatingHintComboBox}" Margin="10,10,112,212" Height="45" IsTextSearchCaseSensitive="True" VerticalAlignment="Stretch">
+                    <ComboBoxItem Content="Toàn bộ nhân viên"/>
+                    <ComboBoxItem Content="Cá nhân"/>
+                </ComboBox>
+                <DatePicker x:Name="dpNgayBatDau"
+                    materialDesign:HintAssist.Hint="Ngày bắt đầu"
+                    Style="{StaticResource MaterialDesignFloatingHintDatePicker}" Margin="10,94,222,131" VerticalAlignment="Stretch" />
+                <DatePicker x:Name="dpNgayKetThuc"
+                    materialDesign:HintAssist.Hint="Ngày kết thúc"
+                    Style="{StaticResource MaterialDesignFloatingHintDatePicker}" Margin="10,155,222,68" VerticalAlignment="Stretch" />
+                <Button x:Name="btnXacNhanTGLamViec"
+                    Background="#FF6DA7F0"
+                    Style="{StaticResource MaterialDesignRaisedLightButton}"
+                    Width="100"
+                    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="286,225,27,10" Click="btnXacNhanTGLamViec_Click">
+                    _Xác nhận
+                </Button>
+            </Grid>
+        </GroupBox>
+    </Grid>
+</UserControl>

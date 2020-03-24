@@ -1,0 +1,106 @@
+﻿<UserControl x:Class="CNPM.ucAccountManagement"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CNPM"
+             mc:Ignorable="d" 
+             d:DesignHeight="660" d:DesignWidth="1220" Background="White">
+    <Grid>
+        <GroupBox Header="Thông tin tài khoản" HorizontalAlignment="Left" Height="216" VerticalAlignment="Top" Width="1044" Margin="67,0,0,0" FontSize="16">
+            <GroupBox.Style>
+                <Style></Style>
+            </GroupBox.Style>
+            <Grid Margin="0,0,-2,-5" x:Name="grbTaiKhoan">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="71*"/>
+                    <ColumnDefinition Width="963*"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Tên nhân viên:" HorizontalAlignment="Left" Margin="36,19,0,0" VerticalAlignment="Top" FontSize="16" Grid.ColumnSpan="2" />
+                <ComboBox 
+                    x:Name="cboTenNhanVien"
+                    Margin="97,17,228,143"
+                    materialDesign:HintAssist.Hint=""
+                    IsEditable="False" Grid.Column="1">
+                </ComboBox>
+                <Image x:Name="pctbAvatar" HorizontalAlignment="Left" Height="150" Margin="772,17,0,0" VerticalAlignment="Top"  Width="150" Source="Resoures/maxresdefault-1.png" Stretch="UniformToFill" Grid.Column="1"/>
+                <Label Content="Tên tài khoản:" HorizontalAlignment="Left" Margin="36,67,0,0" VerticalAlignment="Top" FontSize="16" Grid.ColumnSpan="2"/>
+                <TextBox
+                    x:Name="txtAccountUser"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                    materialDesign:HintAssist.Hint=""
+                    Text="{Binding Content}"
+                    Margin="97,0,369,95"
+                    VerticalAlignment="Bottom" Grid.Column="1" />
+                <CheckBox
+            x:Name="chkTinhTrang"
+            Style="{StaticResource MaterialDesignCheckBox}" 
+            Margin="629,64,196,77" 
+            Content="Đã khóa" 
+            FontFamily="Arial" 
+            FontSize="22" Grid.Column="1" RenderTransformOrigin="0.5,0.5" />
+                <Label Content="Email:" HorizontalAlignment="Left" Margin="36,116,0,0" VerticalAlignment="Top" FontSize="16" Grid.ColumnSpan="2"/>
+                <TextBox
+                    x:Name="txtEmail"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                    materialDesign:HintAssist.Hint=""
+                    Text="{Binding Content}"
+                    Margin="97,0,228,46"
+                    VerticalAlignment="Bottom" Grid.Column="1" />
+            </Grid>
+        </GroupBox>
+        <Button
+            x:Name="btnInsert"
+            Style="{StaticResource MaterialDesignRaisedLightButton}"
+            ToolTip="Resource name: MaterialDesignRaisedLightButton" FontSize="18" Background="#FF6DA7F0" Margin="105,231,995,383" Height="Auto" FontWeight="Bold">
+            Thêm
+        </Button>
+        <Button
+            x:Name="btnEdit"
+            Style="{StaticResource MaterialDesignRaisedLightButton}"
+            ToolTip="Resource name: MaterialDesignRaisedLightButton" FontSize="18" Background="#FF6DA7F0" Margin="239,231,861,383" Height="Auto" FontWeight="Bold">
+            Sửa
+        </Button>
+        <Button
+            x:Name="btnDelete"
+            Style="{StaticResource MaterialDesignRaisedLightButton}"
+            ToolTip="Resource name: MaterialDesignRaisedLightButton" FontSize="18" Background="#FF6DA7F0" Margin="373,231,727,383" Height="Auto" FontWeight="Bold">
+            Xóa
+        </Button>
+        <Button
+            x:Name="btnSave"
+            Style="{StaticResource MaterialDesignRaisedLightButton}"
+            ToolTip="Resource name: MaterialDesignRaisedLightButton" FontSize="18" Background="#FF6DA7F0" Margin="507,231,593,383" Height="Auto" FontWeight="Bold">
+            Lưu
+        </Button>
+        <Button
+            x:Name="btnCancel"
+            Style="{StaticResource MaterialDesignRaisedLightButton}"
+            ToolTip="Resource name: MaterialDesignRaisedLightButton" FontSize="18" Background="#FF6DA7F0" Margin="641,231,459,383" Height="Auto" FontWeight="Bold">
+            Hủy
+        </Button>
+        <Button
+            x:Name="btnReaload"
+            Style="{StaticResource MaterialDesignRaisedLightButton}"
+            ToolTip="Resource name: MaterialDesignRaisedLightButton" FontSize="18" Background="#FF6DA7F0" Margin="775,231,325,383" Height="Auto" FontWeight="Bold">
+            Reload
+        </Button>
+        <Button
+            x:Name="btnReset"
+            Style="{StaticResource MaterialDesignRaisedLightButton}"
+            ToolTip="Resource name: MaterialDesignRaisedLightButton" FontSize="18" Background="#FF6DA7F0" Margin="909,231,135,383" Height="Auto" FontWeight="Bold">
+            Cấp lại mật khẩu
+        </Button>
+        <DataGrid 
+            x:Name="dgvTaiKhoan" 
+            BorderThickness="1" 
+            HorizontalAlignment="Stretch" 
+            HorizontalContentAlignment="Stretch" 
+            ColumnWidth="*"
+            Height="358" Margin="10,292,10,0" 
+            VerticalAlignment="Top" 
+            Width="1200" 
+            IsReadOnly="True"/>
+    </Grid>
+</UserControl>

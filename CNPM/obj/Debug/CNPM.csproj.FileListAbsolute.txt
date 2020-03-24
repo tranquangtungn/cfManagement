@@ -1,0 +1,938 @@
+D:\HocTap\CNPM\CNPM\bin\Debug\CNPM.exe.config
+D:\HocTap\CNPM\CNPM\bin\Debug\CNPM.exe
+D:\HocTap\CNPM\CNPM\bin\Debug\CNPM.pdb
+D:\HocTap\CNPM\CNPM\bin\Debug\MaterialDesignColors.dll
+D:\HocTap\CNPM\CNPM\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\HocTap\CNPM\CNPM\bin\Debug\MaterialDesignColors.pdb
+D:\HocTap\CNPM\CNPM\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\HocTap\CNPM\CNPM\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\HocTap\CNPM\CNPM\obj\Debug\CNPM.csprojAssemblyReference.cache
+D:\HocTap\CNPM\CNPM\obj\Debug\App.g.cs
+D:\HocTap\CNPM\CNPM\obj\Debug\CNPM_MarkupCompile.cache
+D:\HocTap\CNPM\CNPM\obj\Debug\CNPM_MarkupCompile.lref
+D:\HocTap\CNPM\CNPM\obj\Debug\App.baml
+D:\HocTap\CNPM\CNPM\obj\Debug\CNPM.g.resources
+D:\HocTap\CNPM\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+D:\HocTap\CNPM\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+D:\HocTap\CNPM\CNPM\obj\Debug\CNPM.csproj.CopyComplete
+D:\HocTap\CNPM\CNPM\obj\Debug\CNPM.exe
+D:\HocTap\CNPM\CNPM\obj\Debug\CNPM.pdb
+D:\HocTap\CNPM\CNPM\obj\Debug\Login.g.cs
+D:\HocTap\CNPM\CNPM\obj\Debug\Login.baml
+D:\HocTap\CNPM\CNPM\obj\Debug\Home.g.cs
+D:\HocTap\CNPM\CNPM\obj\Debug\Home.baml
+C:\Users\TrungTruong\Desktop\CNPM\bin\Debug\CNPM.exe.config
+C:\Users\TrungTruong\Desktop\CNPM\bin\Debug\CNPM.exe
+C:\Users\TrungTruong\Desktop\CNPM\bin\Debug\CNPM.pdb
+C:\Users\TrungTruong\Desktop\CNPM\bin\Debug\MaterialDesignColors.dll
+C:\Users\TrungTruong\Desktop\CNPM\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\TrungTruong\Desktop\CNPM\bin\Debug\MaterialDesignColors.pdb
+C:\Users\TrungTruong\Desktop\CNPM\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\TrungTruong\Desktop\CNPM\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\CNPM.csprojAssemblyReference.cache
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\Home.g.cs
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\Login.g.cs
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\App.g.cs
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\CNPM_MarkupCompile.cache
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\CNPM_MarkupCompile.lref
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\App.baml
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\Home.baml
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\Login.baml
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\CNPM.g.resources
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\CNPM.csproj.CopyComplete
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\CNPM.exe
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\CNPM.pdb
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\UserControls\ucAccountManagement.g.cs
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\UserControls\ucChangePassword.g.cs
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\UserControls\ucEmpManagement.g.cs
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\UserControls\ucRawImported.g.cs
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\UserControls\ucRawManagement.g.cs
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\UserControls\ucRawUsed.g.cs
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\UserControls\ucTimeKeepManagement.g.cs
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\UserControls\ucAccountManagement.baml
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\UserControls\ucChangePassword.baml
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\UserControls\ucEmpManagement.baml
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\UserControls\ucRawImported.baml
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\UserControls\ucRawManagement.baml
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\UserControls\ucRawUsed.baml
+C:\Users\TrungTruong\Desktop\CNPM\obj\Debug\UserControls\ucTimeKeepManagement.baml
+E:\CNPM\CNPM\bin\Debug\CNPM.exe.config
+E:\CNPM\CNPM\bin\Debug\CNPM.exe
+E:\CNPM\CNPM\bin\Debug\CNPM.pdb
+E:\CNPM\CNPM\bin\Debug\MaterialDesignColors.dll
+E:\CNPM\CNPM\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\CNPM\CNPM\bin\Debug\MaterialDesignColors.pdb
+E:\CNPM\CNPM\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\CNPM\CNPM\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\CNPM\CNPM\obj\Debug\CNPM.csprojAssemblyReference.cache
+E:\CNPM\CNPM\obj\Debug\Home.g.cs
+E:\CNPM\CNPM\obj\Debug\Login.g.cs
+E:\CNPM\CNPM\obj\Debug\App.g.cs
+E:\CNPM\CNPM\obj\Debug\CNPM_MarkupCompile.cache
+E:\CNPM\CNPM\obj\Debug\CNPM_MarkupCompile.lref
+E:\CNPM\CNPM\obj\Debug\App.baml
+E:\CNPM\CNPM\obj\Debug\Home.baml
+E:\CNPM\CNPM\obj\Debug\Login.baml
+E:\CNPM\CNPM\obj\Debug\CNPM.g.resources
+E:\CNPM\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+E:\CNPM\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+E:\CNPM\CNPM\obj\Debug\CNPM.csproj.CopyComplete
+E:\CNPM\CNPM\obj\Debug\CNPM.exe
+E:\CNPM\CNPM\obj\Debug\CNPM.pdb
+E:\CNPM\CNPM\bin\Debug\EntityFramework.dll
+E:\CNPM\CNPM\bin\Debug\EntityFramework.SqlServer.dll
+E:\CNPM\CNPM\bin\Debug\EntityFramework.xml
+E:\CNPM\CNPM\bin\Debug\EntityFramework.SqlServer.xml
+E:\CNPM\CNPM\obj\Debug\Views\ucAccountManagement.g.cs
+E:\CNPM\CNPM\obj\Debug\Views\ucChangePassword.g.cs
+E:\CNPM\CNPM\obj\Debug\Views\ucEmpManagement.g.cs
+E:\CNPM\CNPM\obj\Debug\Views\ucRawImported.g.cs
+E:\CNPM\CNPM\obj\Debug\Views\ucRawManagement.g.cs
+E:\CNPM\CNPM\obj\Debug\Views\ucRawUsed.g.cs
+E:\CNPM\CNPM\obj\Debug\Views\ucTimeKeepManagement.g.cs
+E:\CNPM\CNPM\obj\Debug\CNPM_Content.g.cs
+E:\CNPM\CNPM\obj\Debug\Views\ucAccountManagement.baml
+E:\CNPM\CNPM\obj\Debug\Views\ucChangePassword.baml
+E:\CNPM\CNPM\obj\Debug\Views\ucEmpManagement.baml
+E:\CNPM\CNPM\obj\Debug\Views\ucRawImported.baml
+E:\CNPM\CNPM\obj\Debug\Views\ucRawManagement.baml
+E:\CNPM\CNPM\obj\Debug\Views\ucRawUsed.baml
+E:\CNPM\CNPM\obj\Debug\Views\ucTimeKeepManagement.baml
+E:\CNPM\CNPM\obj\Debug\ForgotPassWord.g.cs
+E:\CNPM\CNPM\obj\Debug\ForgotPassWord.baml
+E:\CNPM\CNPM\obj\Debug\Views\RevenueManagement.g.cs
+E:\CNPM\CNPM\obj\Debug\Views\RevenueManagement.baml
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\bin\Debug\CNPM.exe.config
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\bin\Debug\CNPM.exe
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\bin\Debug\CNPM.pdb
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\bin\Debug\EntityFramework.dll
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\bin\Debug\MaterialDesignColors.dll
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\bin\Debug\EntityFramework.xml
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\bin\Debug\MaterialDesignColors.pdb
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\CNPM.csprojAssemblyReference.cache
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\ForgotPassWord.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\Views\RevenueManagement.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\Views\ucAccountManagement.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\Views\ucChangePassword.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\Home.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\Login.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\Views\ucEmpManagement.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\Views\ucRawImported.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\Views\ucRawManagement.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\Views\ucRawUsed.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\Views\ucTimeKeepManagement.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\App.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\CNPM_Content.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\CNPM_MarkupCompile.cache
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\CNPM_MarkupCompile.lref
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\App.baml
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\ForgotPassWord.baml
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\Views\RevenueManagement.baml
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\Views\ucAccountManagement.baml
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\Views\ucChangePassword.baml
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\Home.baml
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\Login.baml
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\Views\ucEmpManagement.baml
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\Views\ucRawImported.baml
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\Views\ucRawManagement.baml
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\Views\ucRawUsed.baml
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\Views\ucTimeKeepManagement.baml
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\CNPM.g.resources
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\CNPM.csproj.CopyComplete
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\CNPM.exe
+C:\Users\TrungTruong\Desktop\CNPM-Triều\CNPM\obj\Debug\CNPM.pdb
+C:\CNPM-Triều\CNPM\bin\Debug\CNPM.exe.config
+C:\CNPM-Triều\CNPM\bin\Debug\CNPM.exe
+C:\CNPM-Triều\CNPM\bin\Debug\CNPM.pdb
+C:\CNPM-Triều\CNPM\bin\Debug\EntityFramework.dll
+C:\CNPM-Triều\CNPM\bin\Debug\EntityFramework.SqlServer.dll
+C:\CNPM-Triều\CNPM\bin\Debug\MaterialDesignColors.dll
+C:\CNPM-Triều\CNPM\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\CNPM-Triều\CNPM\bin\Debug\EntityFramework.xml
+C:\CNPM-Triều\CNPM\bin\Debug\EntityFramework.SqlServer.xml
+C:\CNPM-Triều\CNPM\bin\Debug\MaterialDesignColors.pdb
+C:\CNPM-Triều\CNPM\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\CNPM-Triều\CNPM\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\CNPM-Triều\CNPM\obj\Debug\CNPM.csprojAssemblyReference.cache
+C:\CNPM-Triều\CNPM\obj\Debug\ForgotPassWord.g.cs
+C:\CNPM-Triều\CNPM\obj\Debug\Views\RevenueManagement.g.cs
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucAccountManagement.g.cs
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucChangePassword.g.cs
+C:\CNPM-Triều\CNPM\obj\Debug\Home.g.cs
+C:\CNPM-Triều\CNPM\obj\Debug\Login.g.cs
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucEmpManagement.g.cs
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucRawImported.g.cs
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucRawManagement.g.cs
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucRawUsed.g.cs
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucTimeKeepManagement.g.cs
+C:\CNPM-Triều\CNPM\obj\Debug\App.g.cs
+C:\CNPM-Triều\CNPM\obj\Debug\CNPM_Content.g.cs
+C:\CNPM-Triều\CNPM\obj\Debug\CNPM_MarkupCompile.cache
+C:\CNPM-Triều\CNPM\obj\Debug\CNPM_MarkupCompile.lref
+C:\CNPM-Triều\CNPM\obj\Debug\App.baml
+C:\CNPM-Triều\CNPM\obj\Debug\ForgotPassWord.baml
+C:\CNPM-Triều\CNPM\obj\Debug\Views\RevenueManagement.baml
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucAccountManagement.baml
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucChangePassword.baml
+C:\CNPM-Triều\CNPM\obj\Debug\Home.baml
+C:\CNPM-Triều\CNPM\obj\Debug\Login.baml
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucEmpManagement.baml
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucRawImported.baml
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucRawManagement.baml
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucRawUsed.baml
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucTimeKeepManagement.baml
+C:\CNPM-Triều\CNPM\obj\Debug\CNPM.g.resources
+C:\CNPM-Triều\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+C:\CNPM-Triều\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+C:\CNPM-Triều\CNPM\obj\Debug\CNPM.csproj.CopyComplete
+C:\CNPM-Triều\CNPM\obj\Debug\CNPM.exe
+C:\CNPM-Triều\CNPM\obj\Debug\CNPM.pdb
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucDistributorManagement.g.cs
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucImportedDetails.g.cs
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucUsedDetails.g.cs
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucDistributorManagement.baml
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucImportedDetails.baml
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucUsedDetails.baml
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucGoiMon.g.cs
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucQLMonAnLoaiMon.g.cs
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucGoiMon.baml
+C:\CNPM-Triều\CNPM\obj\Debug\Views\ucQLMonAnLoaiMon.baml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\CNPM.csprojAssemblyReference.cache
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\ForgotPassWord.g.cs
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\RevenueManagement.g.cs
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucAccountManagement.g.cs
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucChangePassword.g.cs
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Home.g.cs
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Login.g.cs
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucDistributorManagement.g.cs
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucEmpManagement.g.cs
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucGoiMon.g.cs
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucImportedDetails.g.cs
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucQLMonAnLoaiMon.g.cs
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucRawImported.g.cs
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucRawManagement.g.cs
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucRawUsed.g.cs
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucTimeKeepManagement.g.cs
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucUsedDetails.g.cs
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\App.g.cs
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\CNPM_MarkupCompile.cache
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\CNPM_MarkupCompile.lref
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\CNPM.exe
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\CNPM.pdb
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\CNPM.exe.config
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\CNPM.exe
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\CNPM.pdb
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\EntityFramework.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\EntityFramework.SqlServer.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\MaterialDesignColors.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\EntityFramework.xml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\EntityFramework.SqlServer.xml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\MaterialDesignColors.pdb
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\CNPM_Content.g.cs
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\App.baml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\ForgotPassWord.baml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\RevenueManagement.baml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucAccountManagement.baml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucChangePassword.baml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Home.baml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Login.baml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucDistributorManagement.baml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucEmpManagement.baml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucGoiMon.baml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucImportedDetails.baml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucQLMonAnLoaiMon.baml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucRawImported.baml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucRawManagement.baml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucRawUsed.baml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucTimeKeepManagement.baml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucUsedDetails.baml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\CNPM.g.resources
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\CNPM.csproj.CopyComplete
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucTinhLuong.g.cs
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\Views\ucTinhLuong.baml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Data.v19.1.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Mvvm.v19.1.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Xpf.Charts.v19.1.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Xpf.Core.v19.1.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Xpf.Printing.v19.1.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Images.v19.1.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Xpf.DocumentViewer.v19.1.Core.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Xpf.Ribbon.v19.1.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Xpf.Docking.v19.1.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Xpf.LayoutControl.v19.1.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Xpf.Grid.v19.1.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Xpf.Grid.v19.1.Core.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Xpf.Layout.v19.1.Core.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Office.v19.1.Core.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Data.v19.1.xml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Mvvm.v19.1.xml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Xpf.Charts.v19.1.xml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Xpf.Core.v19.1.xml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Xpf.Printing.v19.1.xml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Xpf.DocumentViewer.v19.1.Core.xml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Xpf.Ribbon.v19.1.xml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Xpf.Docking.v19.1.xml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Xpf.LayoutControl.v19.1.xml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Xpf.Grid.v19.1.xml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Xpf.Grid.v19.1.Core.xml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Xpf.Layout.v19.1.Core.xml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\DevExpress.Office.v19.1.Core.xml
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\de\DevExpress.Xpf.Charts.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\es\DevExpress.Xpf.Charts.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ja\DevExpress.Xpf.Charts.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ru\DevExpress.Xpf.Charts.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\de\DevExpress.Xpf.Core.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\es\DevExpress.Xpf.Core.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ja\DevExpress.Xpf.Core.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ru\DevExpress.Xpf.Core.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\de\DevExpress.Xpf.Printing.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\es\DevExpress.Xpf.Printing.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ja\DevExpress.Xpf.Printing.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ru\DevExpress.Xpf.Printing.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\de\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\es\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ja\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ru\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\de\DevExpress.Xpf.Docking.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\es\DevExpress.Xpf.Docking.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ja\DevExpress.Xpf.Docking.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ru\DevExpress.Xpf.Docking.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\de\DevExpress.Xpf.LayoutControl.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\es\DevExpress.Xpf.LayoutControl.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v19.1.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\de\DevExpress.Xpf.Grid.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\es\DevExpress.Xpf.Grid.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ja\DevExpress.Xpf.Grid.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ru\DevExpress.Xpf.Grid.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+E:\công nghệ phần mềm\CNPM-Triều\CNPM-Triều\CNPM\obj\Debug\CNPM.exe.licenses
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\CNPM.exe.config
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\CNPM.exe
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\CNPM.pdb
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\EntityFramework.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\MaterialDesignColors.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.DocumentViewer.v19.1.Core.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Ribbon.v19.1.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Docking.v19.1.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.LayoutControl.v19.1.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Grid.v19.1.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Grid.v19.1.Core.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Layout.v19.1.Core.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Mvvm.v19.1.xml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Charts.v19.1.xml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Core.v19.1.xml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Printing.v19.1.xml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\EntityFramework.xml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\MaterialDesignColors.pdb
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.DocumentViewer.v19.1.Core.xml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Ribbon.v19.1.xml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Docking.v19.1.xml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.LayoutControl.v19.1.xml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Grid.v19.1.xml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Grid.v19.1.Core.xml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Layout.v19.1.Core.xml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\de\DevExpress.Xpf.Charts.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\es\DevExpress.Xpf.Charts.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Xpf.Charts.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Xpf.Charts.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\de\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\es\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\de\DevExpress.Xpf.Printing.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\es\DevExpress.Xpf.Printing.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Xpf.Printing.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Xpf.Printing.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\de\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\es\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\de\DevExpress.Xpf.Docking.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\es\DevExpress.Xpf.Docking.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Xpf.Docking.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Xpf.Docking.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\de\DevExpress.Xpf.LayoutControl.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\es\DevExpress.Xpf.LayoutControl.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v19.1.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\de\DevExpress.Xpf.Grid.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\es\DevExpress.Xpf.Grid.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Xpf.Grid.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Xpf.Grid.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\CNPM.csprojAssemblyReference.cache
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\ForgotPassWord.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\RevenueManagement.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucAccountManagement.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucChangePassword.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Home.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Login.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucDistributorManagement.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucEmpManagement.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucGoiMon.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucImportedDetails.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucQLMonAnLoaiMon.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucRawImported.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucRawManagement.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucRawUsed.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucTimeKeepManagement.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucTinhLuong.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucUsedDetails.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\App.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\CNPM_Content.g.cs
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\CNPM_MarkupCompile.cache
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\CNPM_MarkupCompile.lref
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\App.baml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\ForgotPassWord.baml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\RevenueManagement.baml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucAccountManagement.baml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucChangePassword.baml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Home.baml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Login.baml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucDistributorManagement.baml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucEmpManagement.baml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucGoiMon.baml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucImportedDetails.baml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucQLMonAnLoaiMon.baml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucRawImported.baml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucRawManagement.baml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucRawUsed.baml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucTimeKeepManagement.baml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucTinhLuong.baml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\Views\ucUsedDetails.baml
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\CNPM.g.resources
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\CNPM.exe.licenses
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\CNPM.csproj.CopyComplete
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\CNPM.exe
+C:\Users\TrungTruong\Desktop\CNPM-last\CNPM\obj\Debug\CNPM.pdb
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\CNPM.exe.config
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\CNPM.exe
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\CNPM.pdb
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Mvvm.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Charts.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Core.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Printing.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\EntityFramework.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\MaterialDesignColors.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.DocumentViewer.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Ribbon.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Docking.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.LayoutControl.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Grid.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Grid.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Layout.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Mvvm.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Charts.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Core.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Printing.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\EntityFramework.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\MaterialDesignColors.pdb
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.DocumentViewer.v19.1.Core.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Ribbon.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Docking.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.LayoutControl.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Grid.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Grid.v19.1.Core.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Xpf.Layout.v19.1.Core.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\de\DevExpress.Xpf.Charts.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\es\DevExpress.Xpf.Charts.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Xpf.Charts.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Xpf.Charts.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\de\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\es\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\de\DevExpress.Xpf.Printing.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\es\DevExpress.Xpf.Printing.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Xpf.Printing.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Xpf.Printing.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\de\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\es\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\de\DevExpress.Xpf.Docking.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\es\DevExpress.Xpf.Docking.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Xpf.Docking.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Xpf.Docking.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\de\DevExpress.Xpf.LayoutControl.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\es\DevExpress.Xpf.LayoutControl.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\de\DevExpress.Xpf.Grid.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\es\DevExpress.Xpf.Grid.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Xpf.Grid.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Xpf.Grid.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\CNPM.csprojAssemblyReference.cache
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\ForgotPassWord.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\RevenueManagement.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucAccountManagement.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucChangePassword.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Home.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Login.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucDistributorManagement.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucEmpManagement.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucGoiMon.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucImportedDetails.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucQLMonAnLoaiMon.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucRawImported.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucRawManagement.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucRawUsed.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucTimeKeepManagement.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucTinhLuong.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucUsedDetails.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\App.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\CNPM_Content.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\CNPM_MarkupCompile.cache
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\CNPM_MarkupCompile.lref
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\App.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\ForgotPassWord.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\RevenueManagement.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucAccountManagement.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucChangePassword.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Home.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Login.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucDistributorManagement.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucEmpManagement.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucGoiMon.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucImportedDetails.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucQLMonAnLoaiMon.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucRawImported.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucRawManagement.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucRawUsed.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucTimeKeepManagement.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucTinhLuong.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucUsedDetails.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\CNPM.g.resources
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\CNPM.exe.licenses
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\CNPM.csproj.CopyComplete
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\CNPM.exe
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\CNPM.pdb
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucXuatHoaDon.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucXuatHoaDon.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucXuatPhieuLuong.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-last\CNPM\obj\Debug\Views\ucXuatPhieuLuong.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\CNPM.exe.config
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\CNPM.exe
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\CNPM.pdb
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Mvvm.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Xpf.Charts.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Xpf.Core.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Xpf.Printing.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\EntityFramework.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\MaterialDesignColors.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Xpf.DocumentViewer.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Xpf.Ribbon.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Xpf.Docking.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Xpf.LayoutControl.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Xpf.Grid.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Xpf.Grid.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Xpf.Layout.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Mvvm.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Xpf.Charts.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Xpf.Core.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Xpf.Printing.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\EntityFramework.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\MaterialDesignColors.pdb
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Xpf.DocumentViewer.v19.1.Core.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Xpf.Ribbon.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Xpf.Docking.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Xpf.LayoutControl.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Xpf.Grid.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Xpf.Grid.v19.1.Core.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Xpf.Layout.v19.1.Core.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\de\DevExpress.Xpf.Charts.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\es\DevExpress.Xpf.Charts.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ja\DevExpress.Xpf.Charts.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ru\DevExpress.Xpf.Charts.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\de\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\es\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ja\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ru\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\de\DevExpress.Xpf.Printing.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\es\DevExpress.Xpf.Printing.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ja\DevExpress.Xpf.Printing.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ru\DevExpress.Xpf.Printing.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\de\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\es\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ja\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ru\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\de\DevExpress.Xpf.Docking.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\es\DevExpress.Xpf.Docking.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ja\DevExpress.Xpf.Docking.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ru\DevExpress.Xpf.Docking.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\de\DevExpress.Xpf.LayoutControl.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\es\DevExpress.Xpf.LayoutControl.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\de\DevExpress.Xpf.Grid.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\es\DevExpress.Xpf.Grid.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ja\DevExpress.Xpf.Grid.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ru\DevExpress.Xpf.Grid.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\CNPM.csprojAssemblyReference.cache
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\ForgotPassWord.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\RevenueManagement.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucAccountManagement.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucChangePassword.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Home.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Login.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucDistributorManagement.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucEmpManagement.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucGoiMon.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucImportedDetails.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucQLMonAnLoaiMon.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucRawImported.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucRawManagement.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucRawUsed.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucTimeKeepManagement.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucTinhLuong.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucUsedDetails.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucXuatHoaDon.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucXuatPhieuLuong.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\App.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\CNPM_Content.g.cs
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\CNPM_MarkupCompile.cache
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\CNPM_MarkupCompile.lref
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\App.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\ForgotPassWord.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\RevenueManagement.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucAccountManagement.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucChangePassword.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Home.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Login.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucDistributorManagement.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucEmpManagement.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucGoiMon.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucImportedDetails.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucQLMonAnLoaiMon.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucRawImported.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucRawManagement.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucRawUsed.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucTimeKeepManagement.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucTinhLuong.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucUsedDetails.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucXuatHoaDon.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\Views\ucXuatPhieuLuong.baml
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\CNPM.g.resources
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\CNPM.exe.licenses
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\CNPM.csproj.CopyComplete
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\CNPM.exe
+C:\Users\maoka\OneDrive\Máy tính\CNPM-lastoflast\CNPM\obj\Debug\CNPM.pdb
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\CNPM.exe.config
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\CNPM.exe
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\CNPM.pdb
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Mvvm.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Xpf.Charts.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Xpf.Core.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Xpf.Printing.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\EntityFramework.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\MaterialDesignColors.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Xpf.DocumentViewer.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Xpf.Ribbon.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Xpf.Docking.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Xpf.LayoutControl.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Xpf.Grid.v19.1.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Xpf.Grid.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Xpf.Layout.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Mvvm.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Xpf.Charts.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Xpf.Core.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Xpf.Printing.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\EntityFramework.xml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\MaterialDesignColors.pdb
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Xpf.DocumentViewer.v19.1.Core.xml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Xpf.Ribbon.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Xpf.Docking.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Xpf.LayoutControl.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Xpf.Grid.v19.1.xml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Xpf.Grid.v19.1.Core.xml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Xpf.Layout.v19.1.Core.xml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\de\DevExpress.Xpf.Charts.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\es\DevExpress.Xpf.Charts.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ja\DevExpress.Xpf.Charts.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ru\DevExpress.Xpf.Charts.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\de\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\es\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ja\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ru\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\de\DevExpress.Xpf.Printing.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\es\DevExpress.Xpf.Printing.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ja\DevExpress.Xpf.Printing.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ru\DevExpress.Xpf.Printing.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\de\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\es\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ja\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ru\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\de\DevExpress.Xpf.Docking.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\es\DevExpress.Xpf.Docking.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ja\DevExpress.Xpf.Docking.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ru\DevExpress.Xpf.Docking.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\de\DevExpress.Xpf.LayoutControl.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\es\DevExpress.Xpf.LayoutControl.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v19.1.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\de\DevExpress.Xpf.Grid.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\es\DevExpress.Xpf.Grid.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ja\DevExpress.Xpf.Grid.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ru\DevExpress.Xpf.Grid.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\CNPM.csprojAssemblyReference.cache
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\ForgotPassWord.g.cs
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\RevenueManagement.g.cs
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucAccountManagement.g.cs
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucChangePassword.g.cs
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Home.g.cs
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Login.g.cs
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucDistributorManagement.g.cs
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucEmpManagement.g.cs
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucGoiMon.g.cs
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucImportedDetails.g.cs
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucQLMonAnLoaiMon.g.cs
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucRawImported.g.cs
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucRawManagement.g.cs
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucRawUsed.g.cs
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucTimeKeepManagement.g.cs
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucTinhLuong.g.cs
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucUsedDetails.g.cs
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucXuatHoaDon.g.cs
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucXuatPhieuLuong.g.cs
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\App.g.cs
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\CNPM_Content.g.cs
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\CNPM_MarkupCompile.cache
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\CNPM_MarkupCompile.lref
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\App.baml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\ForgotPassWord.baml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\RevenueManagement.baml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucAccountManagement.baml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucChangePassword.baml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Home.baml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Login.baml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucDistributorManagement.baml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucEmpManagement.baml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucGoiMon.baml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucImportedDetails.baml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucQLMonAnLoaiMon.baml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucRawImported.baml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucRawManagement.baml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucRawUsed.baml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucTimeKeepManagement.baml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucTinhLuong.baml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucUsedDetails.baml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucXuatHoaDon.baml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\Views\ucXuatPhieuLuong.baml
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\CNPM.g.resources
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\CNPM.exe.licenses
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\CNPM.csproj.CopyComplete
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\CNPM.exe
+C:\Users\maoka\OneDrive\Máy tính\Nhom01-XayDungPhanMemQuanLyQuanCaPhe\CODE\CNPM\obj\Debug\CNPM.pdb
